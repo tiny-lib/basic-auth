@@ -1,4 +1,4 @@
-module github.com/czyt/basic-auth
+module github.com/tiny-lib/basic-auth
 
 go 1.16
 
